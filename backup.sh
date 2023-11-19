@@ -1,3 +1,3 @@
 #!/bin/sh 
 
-/bin/curl http://docker-lt.backup-1:5000/backup
+/bin/curl http://docker-uaq.backup-1:5000/backup

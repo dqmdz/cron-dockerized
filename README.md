@@ -1,5 +1,5 @@
-# cron-dockerized for uvspes
+# cron-dockerized for pys-uaq
 
 # steps
-    1. docker build -t dqmdz/cron-uvlt:latest .
+    1. docker build -t dqmdz/cron-pys-uaq:latest .
     2. docker push
