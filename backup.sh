@@ -1,3 +1,3 @@
 #!/bin/sh 
 
-/bin/curl http://docker-sauce.backup-1:5000/backup
+/bin/curl http://backup-backup-1:5000/backup
